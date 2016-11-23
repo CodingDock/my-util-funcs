@@ -27,11 +27,10 @@ public class DistributionPeriodUtils {
         
         ld=ld.with(TemporalAdjusters.dayOfWeekInMonth(week,DayOfWeek.FRIDAY));
         
-        ld=ld.plusDays(10);
+        ld=ld.plusDays(13);
         System.out.println(ld);
-        ld=ld.with(TemporalAdjusters.nextOrSame(DayOfWeek.THURSDAY));
+        ld=ld.with(TemporalAdjusters.nextOrSame(DayOfWeek.MONDAY));
         System.out.println(ld);
-
 
 
     }
