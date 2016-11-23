@@ -59,21 +59,8 @@
       <module fileurl="file://$PROJECT_DIR$/my-util-funcs.iml" filepath="$PROJECT_DIR$/my-util-funcs.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" />
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-  </component>
-  <component name="libraryTable">
-    <library name="Maven: junit:junit:3.8.1">
-      <CLASSES>
-        <root url="jar://D:/apache-maven-3.1.0/data/junit/junit/3.8.1/junit-3.8.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://D:/apache-maven-3.1.0/data/junit/junit/3.8.1/junit-3.8.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://D:/apache-maven-3.1.0/data/junit/junit/3.8.1/junit-3.8.1-sources.jar!/" />
-      </SOURCES>
-    </library>
   </component>
 </project>
