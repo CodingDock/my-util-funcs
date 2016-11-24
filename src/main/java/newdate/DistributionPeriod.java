@@ -20,7 +20,6 @@ public class DistributionPeriod {
         return null;
     }
 
-    
     public LocalDate getStartDate() {
         return startDate;
     }
