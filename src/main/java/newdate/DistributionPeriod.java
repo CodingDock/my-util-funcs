@@ -67,7 +67,16 @@ public class DistributionPeriod {
     public void setSalesWeek(int salesWeek) {
         this.salesWeek = salesWeek;
     }
-    
-    
-    
+
+    @Override
+    public String toString() {
+        return "DistributionPeriod{" +
+                "startDate=" + startDate +
+                ", endDate=" + endDate +
+                ", year=" + year +
+                ", month=" + month +
+                ", salesWeek=" + salesWeek +
+                ", naturalWeek=" + naturalWeek +
+                '}';
+    }
 }
